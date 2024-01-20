@@ -123,7 +123,7 @@ const technologies = [
   // },
 ];
 
-const experiences = [
+const Workings = [
   {
     title: "*Explore and Discover*",
     // company_name: "explore",
@@ -177,7 +177,7 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "Step-6",
     points: [
-      "With a simple setup, you're all set to dive into an immersive learning experience, where education meets the future!",
+      "With a simple setup, you're all set to dive into an immersive learning Working, where education meets the future!",
     ],
   },
 ];
@@ -186,13 +186,13 @@ const testimonials = [
   {
     testimonial:
       
-      "Utilizing both marker-based and marker-less AR technologies, offering a versatile and adaptive learning experience.",
+      "Utilizing both marker-based and marker-less AR technologies, offering a versatile and adaptive learning Working.",
 
   },
   {
     testimonial:
       
-      "Integration of interactive AR components featuring captivating animations, ensuring a dynamic and engaging educational experience.",    
+      "Integration of interactive AR components featuring captivating animations, ensuring a dynamic and engaging educational Working.",    
 
   },
   {
@@ -215,7 +215,7 @@ const testimonials = [
   {
     testimonial:
       
-      "Offering an innovative UI/UX design within the app to maximize efficiency, ensuring a smooth and user-friendly learning experience.",
+      "Offering an innovative UI/UX design within the app to maximize efficiency, ensuring a smooth and user-friendly learning Working.",
   },
   
  
@@ -225,7 +225,7 @@ const projects = [
   {
     name: "Skeleton",
     description:
-      "An innovative heart education app that utilizes augmented reality to project a beating heart onto a marker. The app highlights various parts of the heart, offering a visually immersive experience and providing educational insights into the anatomy of this vital organ.",
+      "An innovative heart education app that utilizes augmented reality to project a beating heart onto a marker. The app highlights various parts of the heart, offering a visually immersive Working and providing educational insights into the anatomy of this vital organ.",
     tags: [
      
     ],
@@ -235,7 +235,7 @@ const projects = [
   {
     name: " Human Heart",
     description:
-      "An innovative heart education app that utilizes augmented reality to project a beating heart onto a marker. The app highlights various parts of the heart, offering a visually immersive experience and providing educational insights into the anatomy of this vital organ..",
+      "An innovative heart education app that utilizes augmented reality to project a beating heart onto a marker. The app highlights various parts of the heart, offering a visually immersive Working and providing educational insights into the anatomy of this vital organ..",
     tags: [
       
     ],
@@ -245,7 +245,7 @@ const projects = [
   {
     name: "Photosysthesis",
     description:
-      "An augmented reality app showcasing the process of photosynthesis. The app incorporates special effects for an engaging and immersive experience.",
+      "An augmented reality app showcasing the process of photosynthesis. The app incorporates special effects for an engaging and immersive Working.",
     tags: [
       
     ],
@@ -255,7 +255,7 @@ const projects = [
   {
     name: "Volcano",
     description:
-      "An augmented reality app showcasing a 3D model of a volcano which erupts and then opens into a detailed cross section explaining each element.The app incorporates special effects for an engaging and immersive experience.",
+      "An augmented reality app showcasing a 3D model of a volcano which erupts and then opens into a detailed cross section explaining each element.The app incorporates special effects for an engaging and immersive Working.",
     tags: [
     
     ],
@@ -265,7 +265,7 @@ const projects = [
   {
     name: "Kidney",
     description:
-      "AR technology can be employed to create immersive and interactive experiences for visualizing the anatomy, structure, and function of the kidneys. Medical professionals, students, and patients can use AR applications to explore 3D models of kidneys, view medical imaging data, and understand various aspects of renal health",
+      "AR technology can be employed to create immersive and interactive Workings for visualizing the anatomy, structure, and function of the kidneys. Medical professionals, students, and patients can use AR applications to explore 3D models of kidneys, view medical imaging data, and understand various aspects of renal health",
     tags: [
      
     ],
@@ -275,7 +275,7 @@ const projects = [
   {
     name: "Solar Sytsem",
     description:
-      "An augmented reality app showcasing the solar system, featuring dynamic animations of the sun and planets revolving on their axes while orbiting the sun. The app incorporates special effects for an engaging and immersive experience.",
+      "An augmented reality app showcasing the solar system, featuring dynamic animations of the sun and planets revolving on their axes while orbiting the sun. The app incorporates special effects for an engaging and immersive Working.",
     tags: [
     
     ],
@@ -295,7 +295,7 @@ const projects = [
   {
     name: "Ar Shooter",
     description:
-      "Embark on an interactive learning adventure with our AR app! Dive into a vibrant world, Explore the augmented reality environment, tapping on spheres to uncover the alphabet in a fun  way. creating an immersive learning experience that turns mastering the ABCs into an exciting journey.",
+      "Embark on an interactive learning adventure with our AR app! Dive into a vibrant world, Explore the augmented reality environment, tapping on spheres to uncover the alphabet in a fun  way. creating an immersive learning Working that turns mastering the ABCs into an exciting journey.",
     tags: [
     
     ],
@@ -315,4 +315,4 @@ const projects = [
   
 ];
 
-export { services, technologies, experiences, testimonials, projects };
+export { services, technologies, Workings, testimonials, projects };
