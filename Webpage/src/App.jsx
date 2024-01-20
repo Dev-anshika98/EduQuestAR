@@ -1,6 +1,6 @@
 import { BrowserRouter } from "react-router-dom";
 
-import { About, Feedbacks, Hero, Navbar, Tech, StarsCanvas } from "./components";
+import { About, Feedbacks, Hero, Navbar,Cards, Tech, StarsCanvas } from "./components";
 import Footer from "./components/Footer";
 // import VideoCarousel from "./components/VideoCarousel";
 
@@ -14,7 +14,7 @@ const App = () => {
           <StarsCanvas />
         </div>
         <About />
-       
+        <Cards/>
         <div>
         
         {/* <VideoCarousel/> */}
@@ -24,6 +24,7 @@ const App = () => {
         
       
         <Feedbacks />
+
         <div className='relative z-0'>
          
           <StarsCanvas />
