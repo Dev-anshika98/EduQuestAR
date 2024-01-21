@@ -22,7 +22,7 @@ We have created an EduQuestAR application for junior students which brings stati
 
 
 ### Target Audience 
-- Students of nursury 
+- Students of 3 years old to 14 years old
 
 
 ### Revenue Model
