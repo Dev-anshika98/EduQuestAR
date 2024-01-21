@@ -4,6 +4,7 @@ import { About, Working, Benifits, Hero, Navbar, Cards, StarsCanvas } from "./co
 import Android from "./components/Android";
 import Footer from "./components/Footer";
 import VideoCarousel from "./components/VideoCarousel";
+import Contact from "./components/Contact";
 
 
 const App = () => {
@@ -30,6 +31,7 @@ const App = () => {
           <StarsCanvas />
         </div>
         <Android/>
+        <Contact/>
         <Footer/>
        
       </div>

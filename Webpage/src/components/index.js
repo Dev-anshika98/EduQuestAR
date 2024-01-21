@@ -6,6 +6,7 @@ import Tech from "./Tech";
 import Working from "./Working";
 import Cards from "./Cards";
 import Benifits from "./Benifits";
+import Contact from './Contact';
 import CanvasLoader from "./Loader";
 
 
@@ -17,6 +18,7 @@ export {
   Working,
   Cards,
   Benifits,
+  Contact,
   CanvasLoader,
   EarthCanvas, 
   BallCanvas, 
