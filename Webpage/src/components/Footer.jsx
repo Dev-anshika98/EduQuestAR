@@ -6,7 +6,7 @@ const Footer = () => {
         <div className=" bg-tertiary w-screen  mx-auto py-3 px-4 gap-8 text-gray-300 pb-1">
             <div>
                 <h1 className='w-full text-3xl font-bold text-[#4db9ef] text-center'>EduQuest AR</h1>
-                <p className='py-4 text-center'>Made with 🩵 By Team Kalakar</p>
+                <p className='py-4 text-center'>Made with 🩵 By Team SKYSHOT</p>
                 <div className='flex justify-center gap-3 items-center  md:w-[97 %] my-3'>
                     <a href="#" className=" justify-content text-center items-center transition duration-300 ease-in-out hover:scale-125" target="blank">
                         <FaInstagram size={30} />
