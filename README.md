@@ -63,11 +63,10 @@ https://drive.google.com/file/d/1pZV8jyhwuZMiR2q5oSUYqlC1kX8M19PZ/view?usp=shari
 
 ## Team Members
 
-
-[@Dev-anshika98](https://github.com/Dev-anshika98)
 [@harshverma007 (Team Lead) ](https://github.com/HarshVerma007)
+[@Dev-anshika98](https://github.com/Dev-anshika98)
 [@Sidd5142](https://github.com/sidd5142)
-
+[@NikhilSinghj](https://github.com/NikhilSinghj)
 
 ## Branch Structure
 
