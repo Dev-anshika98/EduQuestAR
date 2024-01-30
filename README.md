@@ -65,7 +65,7 @@ https://drive.google.com/file/d/1pZV8jyhwuZMiR2q5oSUYqlC1kX8M19PZ/view?usp=shari
 
 
 [@Dev-anshika98 (Team Lead)](https://github.com/Dev-anshika98)
-[@harshverma007]([https://github.com/K-Daksh](https://github.com/HarshVerma007))
+[@harshverma007]([https://github.com/HarshVerma007])
 [@Sidd5142]([https://github.com/gyaneshwarchoudhary](https://github.com/sidd5142))
 
 ## Branch Structure
