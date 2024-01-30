@@ -4,7 +4,7 @@
 ![Screenshot 2024-01-20 191452](https://github.com/Dev-anshika98/EduQuestAR-NSUT/assets/123721290/76708ff1-587d-44db-9140-ff975c1403d0)
 
 
-### Team Name: Team Kalakar
+### Team Name: SKYSHOT
 
 ## Problem Statement
 
@@ -74,4 +74,4 @@ We have maintained a single branch  two branches `main` in which webpage directo
 
 ### Demo Video and Sample Images
 c
-[Demo videos, application and images of the product]( https://youtu.be/jnyjXipdzQQ)
+[Demo videos, application and images of the product](  https://youtu.be/qoABJLB_ltw)
