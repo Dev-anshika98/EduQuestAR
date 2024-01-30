@@ -43,7 +43,7 @@ We have created an EduQuestAR application for junior students which brings stati
 
 
 ## PPT
-https://drive.google.com/file/d/1pZV8jyhwuZMiR2q5oSUYqlC1kX8M19PZ/view?usp=sharing
+https://drive.google.com/file/d/1nUL89hEXb-lpnUBUK66WzMtft4tGItD4/view?usp=sharing
 
 
 ## Visualization through AR
