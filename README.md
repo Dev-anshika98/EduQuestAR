@@ -65,4 +65,4 @@ We have maintained a single branch  two branches `main` in which webpage directo
 
 ### Demo Video and Sample Images
 c
-[Demo videos, application and images of the product](  https://youtu.be/qoABJLB_ltw)
+[Demo videos, application and images of the product](  https://youtu.be/HJnAZqbCr5U?si=Cap6uEpytM6iDVx_)
