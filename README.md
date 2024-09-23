@@ -4,8 +4,6 @@
 ![Screenshot 2024-01-20 191452](https://github.com/Dev-anshika98/EduQuestAR-NSUT/assets/123721290/76708ff1-587d-44db-9140-ff975c1403d0)
 
 
-### Team Name: SKYSHOT
-
 ## Problem Statement
 
 - A significant portion of the junior students faces difficulties in old methods of providing education. Traditional learning methods may struggle to capture and maintain children's attention, leading to 
@@ -42,8 +40,6 @@ We have created an EduQuestAR application for junior students which brings stati
 
 
 
-## PPT
-https://drive.google.com/file/d/1nUL89hEXb-lpnUBUK66WzMtft4tGItD4/view?usp=sharing
 
 
 ## Visualization through AR
@@ -61,12 +57,7 @@ https://drive.google.com/file/d/1nUL89hEXb-lpnUBUK66WzMtft4tGItD4/view?usp=shari
 
 
 
-## Team Members
 
-[@harshverma007 (Team Lead) ](https://github.com/HarshVerma007)
-[@Dev-anshika98](https://github.com/Dev-anshika98)
-[@Sidd5142](https://github.com/sidd5142)
-[@NikhilSinghj](https://github.com/NikhilSinghj)
 
 ## Branch Structure
 
